@@ -19,7 +19,7 @@ Public Subnet 2	10.0.2.0/24	Second AZ public range for HA & redundancy
 Private Subnet 1	10.0.3.0/24	Secure backend subnet for databases / internal EC2
 Private Subnet 2	10.0.4.0/24	Second AZ backend subnet ensuring HA
 
-4. Screenshots (Required for Submission)
+Screenshots (Required for Submission)
 
 Upload screenshots inside a folder named screenshots/ and reference them here:
 
